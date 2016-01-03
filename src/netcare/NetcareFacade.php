@@ -7,7 +7,10 @@
  */
 
 
-namespace Illuminate\Support\Facades;
+namespace Netcare;
+
+
+use Illuminate\Support\Facades\Facade;
 
 class NetcareFacade extends Facade
 {
